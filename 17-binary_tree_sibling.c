@@ -1,7 +1,7 @@
 #include "binary_trees.h"
 
 /***
- * binary_tree_sibling - func finds sibling
+ * binary_tree_sibling - func finds sibling of node
  * @node: ip1
  * Return: always
  */
